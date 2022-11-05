@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    text-align: center;
+    margin: 5px 55px;
+}
+
+.search-area {
+    background-color: #EEEEEE;
+    font-weight: normal;
+
+}
+
+.search-box {
+    padding: 1px 2px;
+    inline-size: 280px;
+
+}
+
+input {
+    margin-left: 1px;
+}
+
+
+
+.table-links {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+
+}
+
+.table-col-1 {
+    background-color: #7FE5D9;
+    padding: 0 21px;
+
+
+}
+
+.table-col-2 {
+    font-size: small;
+    background-color: #72CCC2;
+}
+
+.table-col-3 {
+    font-size: small;
+    background-color: #62B3AA;
+}
+
+
+footer {
+    font-size: small;
+    padding: 16px
+}
